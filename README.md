@@ -1,4 +1,3 @@
-It looks like you'll need to log in to use the document creation feature for comparison. However, I can still provide the full comparison here. You can then copy and paste it into your preferred document editor if needed.
 
 Here is the **full comparison document** between the current **OutSystems with Ultimate PDF** approach and the **new approach using a separate Node.js service with Puppeteer**.
 
