@@ -93,5 +93,3 @@ Here is the **full comparison document** between the current **OutSystems with U
 ### **Recommendations**:
 - **If you have high volumes of PDF generation** or **complex documents**, the new approach will significantly reduce the load on your OutSystems platform and improve overall performance.
 - For **future-proofing** and **cost optimization**, adopting the Node.js service approach will provide better flexibility and scalability as your application grows.
-
-Let me know if you need more details or help with setting up the new service!
