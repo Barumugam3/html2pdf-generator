@@ -25,7 +25,7 @@ Here is the **full comparison document** between the current **OutSystems with U
 
 ---
 
-### **2. New Approach: Node.js Service with Puppeteer (Separate Service)**
+### **2. New Approach: Node.js Service with Puppeteer (Chromium) (Separate Service)**
 
 - **Overview**:
   - A **dedicated Node.js service** is set up for PDF generation using **Puppeteer** and **Chromium**. This service is decoupled from OutSystems and can run on a separate server, container, or cloud function.
